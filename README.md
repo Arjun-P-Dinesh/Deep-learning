@@ -2,7 +2,7 @@
 
 ## Course Description
 
-Welcome to the repository for the MAI371 - Deep Learning course offered by the Department of Computer Science. This repository serves as a central hub for storing all course-related materials, including lecture notes, lab exercises, assessments, and additional resources.
+Welcome to the repository for the MAI371 - Deep Learning. This repository serves as a central hub for storing all course-related materials, including lecture notes, lab exercises, assessments, and additional resources.
 
 ### Course Overview
 
